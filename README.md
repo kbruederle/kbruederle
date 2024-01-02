@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kbruederle
+- 👀 Ich interessier mich fuer Home Assistant für die Erfassung von Waermemengen-, Wasser-, Oel- und Stromzaehler.
